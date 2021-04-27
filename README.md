@@ -1,4 +1,4 @@
-👋👋👋 # AnMyeongSeong</h2> 👋👋👋
+# AnMyeongSeong</h2>
 
 
 
