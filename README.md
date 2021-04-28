@@ -1,5 +1,5 @@
 # <p align="center">👏👏 AnMyeongSeong 👏👏</p>
-
+<p align="center">Being a good app developer is my goal</p>
 
 
 
