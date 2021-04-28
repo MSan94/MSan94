@@ -20,10 +20,14 @@
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp;
 </div>
 <br><br>
-<p align="center"> ⏰⏰ My Active ⏰⏰</p>
+<p align="center"> 🎠🎠 My Active 🎠🎠</p>
 
 <div align="center">
     
 ![MSan94's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSan94&show_icons=true&theme=radical)
 
 </div>
+
+<p align="center"> ⏰⏰ My schedule ⏰⏰</p>
+
+![image](https://user-images.githubusercontent.com/81352078/116332811-6952b000-a80d-11eb-8a1c-4dd6ea200478.png)
