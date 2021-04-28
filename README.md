@@ -1,5 +1,4 @@
-# <p align="center">👏👏 AnMyeongSeong 👏👏</p>
-<p align="center">Being a good app developer is my goal</p>
+# <p align="center">👏👏 AnMyeongSeong 👏👏</p> <br> <p align="center">Being a good app developer is my goal</p>
 
 
 
