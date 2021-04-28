@@ -14,5 +14,8 @@
 <img src="https://img.shields.io/badge/Jira-41691e?style=flat-square&logo=Jira&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp;
 </div>
+<div align="center">
+<img src="https://img.shields.io/badge/kotlin-ee0000?style=flat-square&logo=kotlin&logoColor=white"/>&nbsp;
+</div>
 
 <p align="center"> 💗💗 My Active💗💗</p>
