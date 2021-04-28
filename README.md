@@ -20,11 +20,13 @@
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp;
 </div>
 <br><br>
+<p align="center"> 📝📝 Studing Stack 📝📝</p>
+
+<div align="center">
     <img src="https://img.shields.io/badge/kotlin-ee0000?style=flat-square&logo=kotlin&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/CentoOs-262577?style=flat-square&logo=CentoOs&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Json-000000?style=flat-square&logo=Json&logoColor=white"/>&nbsp;
-<p align="center"> 📝📝 Studing Stack 📝📝</p>
-
+</div>
 
 <br><br>
 <p align="center"> 🎠🎠 My Active 🎠🎠</p>
