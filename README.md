@@ -15,7 +15,10 @@
     <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp;
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=kotlin&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp;
 </div>
 
 <p align="center"> 💗💗 My Active💗💗</p>
