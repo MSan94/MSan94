@@ -1,8 +1,3 @@
- ## <p align="center">👏👏 AnMyeongSeong 👏👏</p> <br> <p align="center" style="font-size=5dp">Being a good app developer is my goal</p>
-
-
-
-
 <p align="center"> 📝📝 My Stack 📝📝</p>
 <div align="center">
     <img src="https://img.shields.io/badge/kotlin-ee0000?style=flat-square&logo=kotlin&logoColor=white"/>&nbsp;
