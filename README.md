@@ -1,4 +1,7 @@
-<p align="center"> 📝📝 My Stack 📝📝</p>
+
+![header](https://capsule-render.vercel.app/api?color=auto&text=MyeongSeong`s%GitHub&animation=fadeIn&fontSize=35)
+
+<p align="center">🎠 Stack 🎠</p>
 <div align="center">
     <img src="https://img.shields.io/badge/kotlin-ee0000?style=flat-square&logo=kotlin&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/java-8b0000?style=flat-square&logo=java&logoColor=white"/>&nbsp;
@@ -10,19 +13,11 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp;
 </div>
-<div align="center">
-    <img src="https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp;
-</div>
 <br><br>
-
-
 <br><br>
-<p align="center"> 🎠🎠 My Active 🎠🎠</p>
-
 <div align="center">
     
 ![MSan94's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSan94&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSan94&layout=compact)
 
 </div>
