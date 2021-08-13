@@ -7,11 +7,12 @@
     <img src="https://img.shields.io/badge/java-8b0000?style=flat-square&logo=java&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/MySql-b8860b?style=flat-square&logo=Mysql&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/PostgreSQL-cd853f?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp;
-    <img src="https://img.shields.io/badge/Nodejs-41691e?style=flat-square&logo=Nodejs&logoColor=white"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/node.js-41691e?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp;
+    </span>
 </div>
 <br><br>
 <br><br>
