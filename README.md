@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?color=auto&text=안드로이드개발자&nbsp;안명성&animation=fadeIn&fontSize=35)
+![header](https://capsule-render.vercel.app/api?color=auto&text=안드로이드&nbsp;개발자&nbsp;안명성&animation=fadeIn&fontSize=35)
 
 <p align="center">🎠 Stack 🎠</p>
 <div align="center">
