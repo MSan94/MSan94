@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?color=auto&text=MyeongSeong`s%GitHub&animation=fadeIn&fontSize=35)
+![header](https://capsule-render.vercel.app/api?color=auto&text=안드로이드 개발자%GitHub&animation=fadeIn&fontSize=35)
 
 <p align="center">🎠 Stack 🎠</p>
 <div align="center">
